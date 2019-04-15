@@ -1,0 +1,26 @@
+/*
+* Name Sarah Barrosse-Antle
+* Due Date 2/4/19
+* Project Name and Description My First Prpject
+*/
+
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body atrributes here */
+
+Body {
+    background-color: lavenderblush;
+    width: 85%;
+    margin:auto; 
+
+}
+img { width: 300px; height: 200px; }
+figure {float: right} 
+
+
